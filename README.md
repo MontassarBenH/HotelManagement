@@ -212,6 +212,8 @@ This application provides a comprehensive solution for managing hotel bookings, 
 - **Version**: 1.0
 - **Release Date**: 2025
 
+![System Diagram](HotelManagement.Presentation/Resources/Diagrams.drawio.png)
+
 
 ## 📄 License
 
